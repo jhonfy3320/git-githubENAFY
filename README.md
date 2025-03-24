@@ -68,3 +68,5 @@ Puedes verla [aquí](/Paquete/).
 
 Genial con toda en este curso
 Lo haremos como debe ser
+
+Git y GitHub! Estos son pilares fundamentales para cualquier desarrollador o científico de datos, ya que permiten un control de versiones eficiente, colaboración en proyectos y despliegue de código en la nube.
