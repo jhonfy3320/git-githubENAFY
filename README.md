@@ -67,3 +67,4 @@ Aquí es donde están todos los archivos de esta carpeta y donde la clase comenz
 Puedes verla [aquí](/Paquete/).
 
 Genial con toda en este curso
+Lo haremos como debe ser
