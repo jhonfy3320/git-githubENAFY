@@ -70,3 +70,6 @@ Genial con toda en este curso
 Lo haremos como debe ser
 
 Git y GitHub! Estos son pilares fundamentales para cualquier desarrollador o científico de datos, ya que permiten un control de versiones eficiente, colaboración en proyectos y despliegue de código en la nube.
+
+Acerca de
+Aprende sobre control de versiones y colaboración en proyectos de software. Gestiona repositorios, ramas y conflictos con Git, y utiliza GitHub para alojar proyectos, gestionar issues y realizar pull request. Al finalizar, estarás listo para trabajar en equipo y contribuir a proyectos reales, mejorando tu perfil profesional en desarrollo.
