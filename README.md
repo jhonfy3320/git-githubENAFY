@@ -75,3 +75,8 @@ Acerca de
 Aprende sobre control de versiones y colaboración en proyectos de software. Gestiona repositorios, ramas y conflictos con Git, y utiliza GitHub para alojar proyectos, gestionar issues y realizar pull request. Al finalizar, estarás listo para trabajar en equipo y contribuir a proyectos reales, mejorando tu perfil profesional en desarrollo.
 
 Se realiza la bifurcacion del repo Patzi y se clona con exito en la pc local 
+
+Resumen
+
+¿Cómo sincronizar tus repositorios con git pull, git push y git fetch?
+La gestión de repositorios es una habilidad esencial en el desarrollo de software moderno. Git y GitHub permiten a los desarrolladores colaborar y sincronizar cambios de manera eficiente. Aquí te explicaremos cómo los comandos git pull, git push y git fetch juegan un papel crucial en este proceso, ayudándote a entender cuándo y cómo utilizarlos para mantener tus repositorios actualizados.
