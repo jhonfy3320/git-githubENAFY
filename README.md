@@ -73,3 +73,5 @@ Git y GitHub! Estos son pilares fundamentales para cualquier desarrollador o cie
 
 Acerca de
 Aprende sobre control de versiones y colaboración en proyectos de software. Gestiona repositorios, ramas y conflictos con Git, y utiliza GitHub para alojar proyectos, gestionar issues y realizar pull request. Al finalizar, estarás listo para trabajar en equipo y contribuir a proyectos reales, mejorando tu perfil profesional en desarrollo.
+
+Se realiza la bifurcacion del repo Patzi y se clona con exito en la pc local 
