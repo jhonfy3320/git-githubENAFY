@@ -76,7 +76,27 @@ Aprende sobre control de versiones y colaboración en proyectos de software. Ges
 
 Se realiza la bifurcacion del repo Patzi y se clona con exito en la pc local 
 
+
+# Para verificar la rama activa y actualizar el repositorio local
+$ git branch                # Verifica la rama activa
+$ git pull origin main      # Jala los últimos cambios de la rama main en GitHub
+
+# Para subir cambios desde el repositorio local a la nube
+$ git add .                 # Prepara los archivos para el commit
+$ git commit -m "Descripción del cambio" # Realiza el commit
+$ git push origin main      # Sube los cambios a GitHub
+
 Resumen
 
 ¿Cómo sincronizar tus repositorios con git pull, git push y git fetch?
 La gestión de repositorios es una habilidad esencial en el desarrollo de software moderno. Git y GitHub permiten a los desarrolladores colaborar y sincronizar cambios de manera eficiente. Aquí te explicaremos cómo los comandos git pull, git push y git fetch juegan un papel crucial en este proceso, ayudándote a entender cuándo y cómo utilizarlos para mantener tus repositorios actualizados.
+
+
+# Descargar cambios sin aplicarlos de inmediato
+$ git fetch origin                # Jala los cambios de la rama origen
+
+# Comparar y evaluar diferencias entre ramas
+$ git log main..origin/main       # Compara las diferencias entre la rama local y la remota
+
+# Una vez evaluados, fusionar cambios en la rama local
+$ git merge origin/main           # Fusiona los cambios evaluados
